@@ -25,7 +25,6 @@ def extract_feature(file, mfcc=True, chroma=True, mel=True):
     return result
 emotions={
   '01':'neutral',
-  '02':'calm',
   '03':'happy',
   '04':'sad',
   '05':'angry',
